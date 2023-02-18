@@ -117,7 +117,7 @@ for i, v in pairs(Descendants) do
 end
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "haunts fps booster",
-    Text = "FPS Booster Loaded!",
+    Text = "haunts#0001",
     Duration = math.huge,
     Button1 = "Okay"
 })
